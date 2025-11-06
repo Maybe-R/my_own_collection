@@ -5,3 +5,11 @@
 <img width="1796" height="608" alt="image" src="https://github.com/user-attachments/assets/20c13271-b684-4712-b75f-2cc6c5db54c7" />
 
 ## Основная часть
+
+1. Проверяем модуль на исполняемость локально
+   <img width="2506" height="700" alt="image" src="https://github.com/user-attachments/assets/2fb570f2-db98-4925-a51e-044bf5c7ac5f" />
+
+   
+2. Проверка на идемпатентость
+   <img width="2520" height="527" alt="image" src="https://github.com/user-attachments/assets/71519a18-d78e-4aca-ad04-8ecc791b015a" />
+ 
