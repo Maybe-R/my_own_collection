@@ -12,4 +12,12 @@
    
 2. Проверка на идемпатентость
    <img width="2520" height="527" alt="image" src="https://github.com/user-attachments/assets/71519a18-d78e-4aca-ad04-8ecc791b015a" />
- 
+
+3. Инициализирую новую коллекцию:
+   <img width="1643" height="198" alt="image" src="https://github.com/user-attachments/assets/bee767c3-593a-475e-ab1f-dfd380150ed1" />
+
+
+4. Перенесла свой модуль в соответствующую директорию
+   <img width="1239" height="342" alt="image" src="https://github.com/user-attachments/assets/1b3e1dd2-cda8-4853-81ec-2ab00e733087" />
+
+5.  
