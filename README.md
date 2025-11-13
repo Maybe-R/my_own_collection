@@ -20,4 +20,12 @@
 4. Перенесла свой модуль в соответствующую директорию
    <img width="1239" height="342" alt="image" src="https://github.com/user-attachments/assets/1b3e1dd2-cda8-4853-81ec-2ab00e733087" />
 
-5.  
+5. Создаkf .tar.gz этой collection:
+   <img width="2257" height="139" alt="image" src="https://github.com/user-attachments/assets/48f8b380-3f35-4b26-8f1f-f9621fd7430c" />
+
+6. Установила collection из локального архива
+   <img width="2112" height="574" alt="image" src="https://github.com/user-attachments/assets/73c89726-b131-4c93-8dfc-15d6ac46e23e" />
+
+7. Проверила работу плейбука.
+   
+   <img width="754" height="222" alt="image" src="https://github.com/user-attachments/assets/db087eb7-6616-477d-93d9-136149d81138" />
