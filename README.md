@@ -29,3 +29,4 @@
 7. Проверила работу плейбука.
    
    <img width="754" height="222" alt="image" src="https://github.com/user-attachments/assets/db087eb7-6616-477d-93d9-136149d81138" />
+8. Cсылка на конфигурацию модуля - https://github.com/Maybe-R/my_own_collection.git
