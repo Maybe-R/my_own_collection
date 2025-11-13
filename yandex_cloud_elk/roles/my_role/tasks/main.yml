@@ -1,0 +1,8 @@
+---
+- name: TEST
+  hosts: localhost
+  tasks:
+    - name: Run custom module
+      my_module:
+        path: "{{ my_path }}"
+        content: "{{ my_content }}"
