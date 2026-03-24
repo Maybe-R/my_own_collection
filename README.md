@@ -24,5 +24,16 @@
 
 <img width="2176" height="1436" alt="image" src="https://github.com/user-attachments/assets/cae83d4e-065f-4390-9a80-5d54f7a64725" />
 
+Шаг 10. Single task playbook преобразуйте в single task role и перенесите в collection. У role должны быть default всех параметров module.
+
+Шаг 11. Создайте playbook для использования этой role.
+
+Шаг 16. Запустите playbook, убедитесь, что он работает.
+
+<img width="2505" height="1384" alt="image" src="https://github.com/user-attachments/assets/8294aad9-0a3c-4dc5-bac6-f433a7cd100a" />
+
+Проверяем созданный файл
+
+<img width="2007" height="270" alt="image" src="https://github.com/user-attachments/assets/060a3f51-fa8d-4e2e-a5e2-b6c991fc2f2c" />
 
 
