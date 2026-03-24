@@ -17,3 +17,12 @@
 Проверяем созданный файл в дирректории
 
 <img width="1250" height="1063" alt="image" src="https://github.com/user-attachments/assets/7f1c9d26-2ee3-437d-90c7-752028d7855c" />
+
+Шаг 5. Напишите single task playbook и используйте module в нём.
+
+Шаг 6. Проверьте через playbook на идемпотентность.
+
+<img width="2176" height="1436" alt="image" src="https://github.com/user-attachments/assets/cae83d4e-065f-4390-9a80-5d54f7a64725" />
+
+
+
