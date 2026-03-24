@@ -13,3 +13,7 @@
 Шаг 4. Проверьте module на исполняемость локально.
 
 <img width="2520" height="782" alt="image" src="https://github.com/user-attachments/assets/3d4ac6b2-4ff4-4577-b93f-54ba172e0ee5" />
+
+Проверяем созданный файл в дирректории
+
+<img width="1250" height="1063" alt="image" src="https://github.com/user-attachments/assets/7f1c9d26-2ee3-437d-90c7-752028d7855c" />
